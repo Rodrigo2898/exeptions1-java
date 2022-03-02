@@ -1,2 +1,2 @@
 # exeptions1-java
-Solução ruim
+Solução Boa!
